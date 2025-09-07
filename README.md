@@ -1,8 +1,8 @@
 # 💬 Chotta Chat
 
 
-![Screenshot 1](CC1.png)  
-![Screenshot 2](CC2.png)  
+![Screenshot 1](CC2.png)  
+![Screenshot 2](CC1.png)  
 
 Chotta Chat is a simple real-time chat application built using **Node.js**, **Express**, and **Socket.io**.  
 It allows users to join chat rooms, send messages instantly, and see system notifications when users join or leave.  
