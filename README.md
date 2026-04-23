@@ -64,12 +64,7 @@ chotta-chat/
    ```
    http://localhost:3000
    ```
-
----
-
-## 🎯 Demo
-
-Open two browser tabs, join the same room with different usernames, and start chatting in real-time!
+   ---
 
 
 ## 🙌 Credits
